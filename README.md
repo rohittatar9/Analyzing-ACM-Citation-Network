@@ -3,7 +3,7 @@ Implement weighted Page Rank Algorithm to find most influential paper in ACM lib
 
 The project is organized in following files
 
-1) Link.txt: It is the output to the first part of the project. The file produces a tab separeted list of paper1 paper2 where paper1 cites paper2.
+1) Link.txt: It is the output to the first part of the project. The file produces a tab separeted list of paper1 paper2 where paper1 cites paper2 generated from MapReduce Code.
 
 2) graph.jpg: It is the indegree ditribution graph where X-axis represents indegree k and Y-axis represents indegree distribution (k).
  
