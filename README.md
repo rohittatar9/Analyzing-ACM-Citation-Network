@@ -5,7 +5,7 @@ The project is organized in following files
 
 1) Link.txt: It is the output to the first part of the project. The file produces a tab separeted list of paper1 paper2 where paper1 cites paper2 generated from MapReduce Code.
 
-2) graph.jpg: It is the indegree ditribution graph where X-axis represents indegree k and Y-axis represents indegree distribution (k).
+2) Graph.jpg: It is the indegree ditribution graph where X-axis represents indegree k and Y-axis represents indegree distribution (k).
  
 3) script-step 2.3: This file contains the script for computing average clustering coefficient and average path length for random graphs as well as for the graph generated from previous processing
 
